@@ -69,8 +69,6 @@ Python → SQL → Power BI → Insights Report
 
 🛠️ How to Use the Project
 1️⃣ Clone the repository
-git clone https://github.com/shweta-sutar/customer-shopping-behavior-analysis.git
-cd customer-shopping-behavior-analysis
 
 2️⃣ Run the Python notebook
 
