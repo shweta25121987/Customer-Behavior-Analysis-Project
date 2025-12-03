@@ -1,4 +1,5 @@
 **👩🏻‍💻 Customer Shopping Behavior Analysis**
+[Dashboard Image: https://github.com/shweta25121987/Customer-Behavior-Analysis-Project/blob/main/dashboard.png]
 
 An End-to-End Data Analytics Project
 
